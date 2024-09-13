@@ -9,6 +9,8 @@ Descripción
 Esta es una aplicación de calculadora básica para dispositivos Android. La calculadora permite realizar operaciones matemáticas sencillas como suma, resta, multiplicación y división.
 
 Características Versión: 1.0
+
+
 Operaciones básicas: suma, resta, multiplicación, división.
 Interfaz sencilla y fácil de usar.
 Botones interactivos para los números y las operaciones.
