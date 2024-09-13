@@ -8,7 +8,7 @@ Calculadora Android
 Descripción
 Esta es una aplicación de calculadora básica para dispositivos Android. La calculadora permite realizar operaciones matemáticas sencillas como suma, resta, multiplicación y división.
 
-Características
+Características Versión: 1.0
 Operaciones básicas: suma, resta, multiplicación, división.
 Interfaz sencilla y fácil de usar.
 Botones interactivos para los números y las operaciones.
@@ -23,6 +23,8 @@ Clona el repositorio:
 bash
 Copiar código
 https://github.com/aiittoor10/CalculadoraAndroidJava
+
+
 Abre el proyecto en Android Studio.
 
 Conecta un dispositivo Android o usa un emulador.
@@ -43,3 +45,5 @@ Para más información o preguntas sobre este proyecto, puedes contactar a trav�
 
 Correo: aitorcobo01@gmail.com
 GitHub: aiittoor10
+
+Versión 1.0 
