@@ -90,6 +90,15 @@ public class MainActivity extends AppCompatActivity {
             tvNum2.setText("");
         });
 
+        btnPunto.setOnClickListener(v -> {
+            String textoActual = tvNum2.getText().toString();
+            // Verificar si ya existe un punto en el número actual
+            if (!textoActual.contains(".")) {
+                tvNum2.setText(textoActual + ".");
+            }
+        });
+
+
         // Botón igual para realizar la operación
         btnIgual.setOnClickListener(v -> {
             num2 = Double.parseDouble(tvNum2.getText().toString());
@@ -107,18 +116,24 @@ public class MainActivity extends AppCompatActivity {
                     if (num2 != 0) {
                         resultado = num1 / num2;
                     } else {
-                        tvNum1.setText("Error");
+                        tvNum2.setText("Error");
                         return;
                     }
                     break;
             }
-            tvNum2.setText(String.valueOf(resultado));
+
+            // Mostrar el resultado sin ".0" si es un número entero
+            if (resultado == (int) resultado) {
+                tvNum2.setText(String.valueOf((int) resultado));
+            } else {
+                tvNum2.setText(String.valueOf(resultado));
+            }
         });
+
 
         // Botón para borrar
         btnBorrar.setOnClickListener(v -> {
             tvNum2.setText("");
-            tvNum1.setText("0.0");
             num1 = 0;
             num2 = 0;
             resultado = 0;
