@@ -48,7 +48,7 @@ Contacto
 Para más información o preguntas sobre este proyecto, puedes contactar a través de:
 
 Correo: aitorcobo01@gmail.com
-GitHub: aiittoor10
+GitHub: @aiittoor10
 
 Características Versión 1.0.1 
 - Se ha solucionado el problema que causaba que la aplicación se cerrara al utilizar el botón de borrar.
