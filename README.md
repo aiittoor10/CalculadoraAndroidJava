@@ -2,13 +2,14 @@ Calculadora Android
 
 
 
-![Captura_de_pantalla_2024-09-12_115017-removebg-preview](https://github.com/user-attachments/assets/263e44b8-529e-4a24-9a85-b8bf319432db)
+![Screenshot_20240915_001055](https://github.com/user-attachments/assets/1798a497-ae38-44c6-aff1-4c757552c604)
+
 
 
 Descripción
 Esta es una aplicación de calculadora básica para dispositivos Android. La calculadora permite realizar operaciones matemáticas sencillas como suma, resta, multiplicación y división.
 
-Características Versión: 1.0
+ Versión: 1.0.1
 
 
 Operaciones básicas: suma, resta, multiplicación, división.
@@ -48,4 +49,7 @@ Para más información o preguntas sobre este proyecto, puedes contactar a trav�
 Correo: aitorcobo01@gmail.com
 GitHub: aiittoor10
 
-Versión 1.0 
+Características Versión 1.0.1 
+- Se ha solucionado el problema que causaba que la aplicación se cerrara al utilizar el botón de borrar.
+- Se ha reposicionado el botón de borrar para una mejor accesibilidad.
+- Se ha optimizado el área de texto para mejorar la visualización de los resultados.
