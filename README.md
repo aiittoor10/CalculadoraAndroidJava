@@ -2,7 +2,8 @@ Calculadora Android
 
 
 
-![Screenshot_20240915_001055](https://github.com/user-attachments/assets/1798a497-ae38-44c6-aff1-4c757552c604)
+![image](https://github.com/user-attachments/assets/c5087259-4c8a-45df-8b55-41985cce97f1)
+
 
 
 
